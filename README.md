@@ -51,7 +51,8 @@ python -m locust
 
 ```
 
-🌐 Step 4: Access the Web Interface
+## 🌐 Step 4: Access the Web Interface
+
 Open your browser and go to:
 http://localhost:8089/
 
@@ -60,6 +61,3 @@ http://localhost:8089/
 - Define the spawn rate (users per second)
 - Start the test and monitor performance metrics in real-time
 
-```
-
-```
