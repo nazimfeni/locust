@@ -23,15 +23,11 @@ pip install locust
 
 1. Create a project folder named locust:
 
-
+```
 mkdir locust
 cd locust
-
 ```
 2. Inside the folder, create a file named locustfile.py and paste the following code:
-```
-
-# Import the required classes from the locust module
 
 from locust import HttpUser, task, between
 
