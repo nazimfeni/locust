@@ -29,10 +29,6 @@ cd locust
 ```
 2. Inside the folder, create a file named locustfile.py and paste the following code:
 
-from locust import HttpUser, task, between
-
-# Define a user class that simulates a single user behavior
-
 ```
 from locust import HttpUser, task, between
 
