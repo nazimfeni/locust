@@ -20,6 +20,7 @@ pip install locust
 ```
 
 ## 📁 Step 2: Project Setup
+
 1. Create a project folder named locust:
 
 
