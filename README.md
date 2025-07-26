@@ -42,8 +42,8 @@ class MyUser(HttpUser):
         self.client.get("https://www.google.com/")
 
 ```
+## 🚀 Step 3: Run Locust
 
-🚀 Step 3: Run Locust
 Run the following command to start the Locust web interface:
 
 ```
