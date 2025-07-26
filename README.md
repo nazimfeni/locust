@@ -47,7 +47,6 @@ class MyUser(HttpUser):
 Run the following command to start the Locust web interface:
 
 ```
-
 python -m locust
 
 ```
