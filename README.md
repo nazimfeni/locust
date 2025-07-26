@@ -15,11 +15,13 @@ This guide shows how to perform basic HTTP load testing using the **Locust** too
 
 Open your terminal or command prompt and run:
 
-```bash
+```
 pip install locust
+```
+
 📁 Step 2: Project Setup
 1. Create a project folder named locust:
-```
+
 
 mkdir locust
 cd locust
